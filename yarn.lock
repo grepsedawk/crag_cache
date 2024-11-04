@@ -112,10 +112,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.17.11.tgz#9be796d93ae27b636da32d960899a4912bca27a1"
   integrity sha512-N9vXqLP3eRL8BqSy8yn4Y98cZI2pZ8fyuHx6lKjiG2WABpT2l01TXdzq5Ma2ZUBzfB7tx5dXVhge8X9u0S70ZQ==
 
-"@hotwired/stimulus@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/@hotwired/stimulus/-/stimulus-3.0.1.tgz"
-  integrity sha512-oHsJhgY2cip+K2ED7vKUNd2P+BEswVhrCYcJ802DSsblJFv7mPFVk3cQKvm2vHgHeDVdnj7oOKrBbzp1u8D+KA==
+"@hotwired/stimulus@^3.2.2":
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/@hotwired/stimulus/-/stimulus-3.2.2.tgz#071aab59c600fed95b97939e605ff261a4251608"
+  integrity sha512-eGeIqNOQpXoPAIP7tC1+1Yc1yl1xnwYqg+3mzqxyrbE5pg5YFBZcA6YoTiByJB6DKAEsiWtl6tjTJS4IYtbB7A==
 
 "@hotwired/turbo@^7.1.0":
   version "7.1.0"
